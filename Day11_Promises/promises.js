@@ -42,9 +42,3 @@ fetchData
   .then((message) => console.log(message))
   .catch((error) => console.error(error));
 
-// Activity 4: Fetching Data from an API
-// Task 6: Use the fetch API to get data from a public API and log the response data to the console using promises.
-// Task 7: Use the fetch API to get data from a public API and log the response data to the console using async/await.
-// Activity 5: Concurrent Promises
-// • Task 8: Use Promise.all to wait for multiple promises to resolve and then log all their values.
-// • Task 9: Use Promise. race to log the value of the first promise that resolves among multiple promises.
